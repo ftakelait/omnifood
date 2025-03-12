@@ -100,7 +100,7 @@ a:visited {
 }
 
 a:hover {
-  color: #ff0000;
+  color: orangered;
   font-weight: bold;
   text-decoration: underline wavy orangered;
 }
@@ -113,3 +113,8 @@ a:active {
 /* we decorate elements of list items using <li> tag instead of <ul> or <ol>. pseudo class selector is used to select the direct element in the parent element. 
 
 we use pseudo class selecto to decorate links instead of using <a> tag.  */
+
+/* LVHA (Link, Visited, Hover, Active) 
+ The LVHA stands for Link, Visited, Hover, and Active. These are the four states of a hyperlink. 
+ Link:  The default state of a hyperlink. Visited:  The state of a hyperlink when it has been visited. Hover:  The state of a hyperlink when the mouse is over it. Active:  The state of a hyperlink when it is being clicked. 
+ The order of the pseudo-classes should be in the order of LVHA.  */
