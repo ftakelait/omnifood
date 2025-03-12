@@ -102,7 +102,7 @@ a:visited {
 a:hover {
   color: #ff0000;
   font-weight: bold;
-  text-decoration: underline;
+  text-decoration: underline wavy orangered;
 }
 
 /* NOTE */
