@@ -37,11 +37,12 @@ li {
   font-size: 20px;
 }
 
-footer p {
+/* footer p {
   font-size: 16px;
   text-align: center;
-}
+} */
 
 #author {
   font-style: italic;
+  font-size: 18px;
 }
