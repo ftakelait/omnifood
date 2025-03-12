@@ -96,5 +96,14 @@ a:link {
 }
 
 a:visited {
-  color: #800080;
+  color: #0000ff;
 }
+
+a:hover {
+  color: #ff0000;
+}
+
+/* NOTE */
+/* we decorate elements of list items using <li> tag instead of <ul> or <ol>. pseudo class selector is used to select the direct element in the parent element. 
+
+we use pseudo class selecto to decorate links instead of using <a> tag.  */
