@@ -5,7 +5,7 @@ import time
 driver = webdriver.Chrome()
 
 # Open your GitHub repository page
-driver.get("https://github.com/ftakelait/omnifood")
+driver.get("https://github.com/ftakelait/omnifood/blob/main/03-CSS-Fundamentals/style.css")
 
 try:
     while True:
