@@ -76,6 +76,7 @@ aside {
   border-bottom: 5px solid #1098ad;
 }
 
+/* pseudo class selector  */
 li:first-child {
   font-weight: bold;
 }
