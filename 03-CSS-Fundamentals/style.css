@@ -88,3 +88,9 @@ li:last-child {
 li:nth-child(2) {
   color: #ff0000;
 }
+
+/* styling links */
+a:link {
+  color: #0000ff;
+  text-decoration: none;
+}
