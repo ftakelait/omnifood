@@ -192,7 +192,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or issues, please contact [ftakelait](mailto:ftakelait@gmail.com).
+For any questions or issues, please contact [Fouzi Takelait](mailto:ftakelait@gmail.com).
 
 ---
 
